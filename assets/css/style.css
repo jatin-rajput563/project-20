@@ -1,0 +1,219 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    border: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+section {
+    min-height: 100vh;
+    text-align: center;
+}
+
+.container {
+    max-width: 1140px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-right: -12px;
+    margin-left: -12px;
+}
+
+.col-4 {
+    width: 33.33%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.col-12 {
+    width: 100%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.px-12 {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.card {
+    border-radius: 10px;
+    border: 2px solid gray;
+    text-align: center;
+    max-width: 424px;
+    height: 154px;
+    top: 223px;
+    left: 300px;
+    background: linear-gradient(94.88deg, rgba(255, 255, 255, 0.1) 0.97%, rgba(255, 255, 255, 0) 103.14%);
+}
+
+.card-2 {
+    border: 2px solid;
+    border-radius: 10px;
+    background: linear-gradient(94.88deg, rgba(255, 255, 255, 0.05) 0.97%, rgba(255, 255, 255, 0) 103.14%);
+    border-color: gray;
+    margin-top: 22px;
+
+}
+
+.box {
+    padding: 10px;
+}
+
+.gap {
+    gap: 106px;
+}
+
+.Tokenomics {
+    font-family: "Poppins", sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 61.44px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.Liquidity {
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    text-align: left;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+.When-Buying {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 25.2px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.number {
+    font-family: "Poppins", sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 42px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.When-Selling {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 25.2px;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+.number-2 {
+    font-family: "Poppins", sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 42px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Marketing {
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    text-align: left;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+.Rewards {
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    text-align: left;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+.backgound-colour {
+    background-color: #0C0B0B;
+}
+
+.img {
+    margin-top: 67px;
+}
+
+.svg {
+    flex-direction: row;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding: 5px;
+}
+
+.img-3 {
+    margin-top: 45px;
+}
+
+.table-head {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32.4px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 1320px;
+    height: 68px;
+    top: 973px;
+    left: 299px;
+    background: #0C0C0C;
+}
+
+.table-row {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32.4px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.table-data {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32.4px;
+    color: #B8B7B7;
+    padding: 10px;
+}
+
+.number:hover {
+    color: #F06500;
+}
+
+.Sed-sem {
+    color: #FFFFFF;
+}
+
+.card-3 {
+    margin-top: 70px;
+    margin-left: 157px;
+}
